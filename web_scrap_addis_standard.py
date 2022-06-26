@@ -1,3 +1,9 @@
+# Authur: Fantahun Zikie
+# UALR
+# June 2022
+# Data preparation for research: Using NLP to identify cause and effect from unstructured text
+# Applied research: Identifying cause of poverty from news articles from developing countries
+
 from bs4 import BeautifulSoup
 import requests
 import json
